@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SimpleNote.Models.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Note">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="Header" Type="nvarchar" MaxLength="100" />
+    <Property Name="Context" Type="nvarchar(max)" />
+    <Property Name="Time" Type="nchar" MaxLength="100" />
+    <Property Name="TimeEdit" Type="nchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Note_Backup">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="Header" Type="nvarchar" MaxLength="100" />
+    <Property Name="Context" Type="nvarchar(max)" />
+    <Property Name="Time" Type="nchar" MaxLength="100" />
+    <Property Name="TimeEdit" Type="nchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Note_Tag">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="MiniTag" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="MiniTag" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Description" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Tag">
+    <Key>
+      <PropertyRef Name="Tag" />
+    </Key>
+    <Property Name="Tag" Type="nvarchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Username" />
+    </Key>
+    <Property Name="Username" Type="nchar" MaxLength="25" Nullable="false" />
+    <Property Name="Password" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="nchar" MaxLength="100" />
+    <Property Name="Phone" Type="nchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="User_Note">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="Username" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="Username" Type="nchar" MaxLength="25" Nullable="false" />
+    <Property Name="Description" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="User_Note_Backup">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="Username" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="Username" Type="nchar" MaxLength="25" Nullable="false" />
+    <Property Name="Description" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <Association Name="FK_Note_Tag_Note">
+    <End Role="Note" Type="Self.Note" Multiplicity="1" />
+    <End Role="Note_Tag" Type="Self.Note_Tag" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Note">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Note_Tag">
+        <PropertyRef Name="ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_Note_Backup_Note_Backup">
+    <End Role="Note_Backup" Type="Self.Note_Backup" Multiplicity="1" />
+    <End Role="User_Note_Backup" Type="Self.User_Note_Backup" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Note_Backup">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="User_Note_Backup">
+        <PropertyRef Name="ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_Note_Backup_User">
+    <End Role="User" Type="Self.User" Multiplicity="1" />
+    <End Role="User_Note_Backup" Type="Self.User_Note_Backup" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Username" />
+      </Principal>
+      <Dependent Role="User_Note_Backup">
+        <PropertyRef Name="Username" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_Note_Note">
+    <End Role="Note" Type="Self.Note" Multiplicity="1" />
+    <End Role="User_Note" Type="Self.User_Note" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Note">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="User_Note">
+        <PropertyRef Name="ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_Note_User">
+    <End Role="User" Type="Self.User" Multiplicity="1" />
+    <End Role="User_Note" Type="Self.User_Note" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Username" />
+      </Principal>
+      <Dependent Role="User_Note">
+        <PropertyRef Name="Username" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SimpleNoteModelsStoreContainer">
+    <EntitySet Name="Note" EntityType="Self.Note" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Note_Backup" EntityType="Self.Note_Backup" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Note_Tag" EntityType="Self.Note_Tag" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tag" EntityType="Self.Tag" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User_Note" EntityType="Self.User_Note" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User_Note_Backup" EntityType="Self.User_Note_Backup" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Note_Tag_Note" Association="Self.FK_Note_Tag_Note">
+      <End Role="Note" EntitySet="Note" />
+      <End Role="Note_Tag" EntitySet="Note_Tag" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_Note_Backup_Note_Backup" Association="Self.FK_User_Note_Backup_Note_Backup">
+      <End Role="Note_Backup" EntitySet="Note_Backup" />
+      <End Role="User_Note_Backup" EntitySet="User_Note_Backup" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_Note_Backup_User" Association="Self.FK_User_Note_Backup_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="User_Note_Backup" EntitySet="User_Note_Backup" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_Note_Note" Association="Self.FK_User_Note_Note">
+      <End Role="Note" EntitySet="Note" />
+      <End Role="User_Note" EntitySet="User_Note" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_Note_User" Association="Self.FK_User_Note_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="User_Note" EntitySet="User_Note" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

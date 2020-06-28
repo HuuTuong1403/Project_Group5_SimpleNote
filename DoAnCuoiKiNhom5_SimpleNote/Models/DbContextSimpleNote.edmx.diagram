@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1bd3cd9d280b4456ba1090f400641131" Name="Diagram1">
+        <EntityTypeShape EntityType="SimpleNote.Models.Note" Width="1.5" PointX="3.125" PointY="3.25" />
+        <EntityTypeShape EntityType="SimpleNote.Models.Note_Backup" Width="1.5" PointX="6.625" PointY="0.5" />
+        <EntityTypeShape EntityType="SimpleNote.Models.Note_Tag" Width="1.5" PointX="5.25" PointY="3.5" />
+        <EntityTypeShape EntityType="SimpleNote.Models.sysdiagram" Width="1.5" PointX="8.75" PointY="3.125" />
+        <EntityTypeShape EntityType="SimpleNote.Models.Tag" Width="1.5" PointX="9.125" PointY="0.75" />
+        <EntityTypeShape EntityType="SimpleNote.Models.User" Width="1.5" PointX="0.5" PointY="0.5" />
+        <EntityTypeShape EntityType="SimpleNote.Models.User_Note" Width="1.5" PointX="0.5" PointY="3.25" />
+        <EntityTypeShape EntityType="SimpleNote.Models.User_Note_Backup" Width="1.5" PointX="3.75" PointY="0.5" />
+        <AssociationConnector Association="SimpleNote.Models.FK_Note_Tag_Note" />
+        <AssociationConnector Association="SimpleNote.Models.FK_User_Note_Note" />
+        <AssociationConnector Association="SimpleNote.Models.FK_User_Note_Backup_Note_Backup" ManuallyRouted="false" >
+        </AssociationConnector>
+        <AssociationConnector Association="SimpleNote.Models.FK_User_Note_Backup_User" />
+        <AssociationConnector Association="SimpleNote.Models.FK_User_Note_User" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

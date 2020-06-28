@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="SimpleNote.Models.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Note">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" />
+          <Property Name="Header" Type="nvarchar" MaxLength="100" />
+          <Property Name="Context" Type="nvarchar(max)" />
+          <Property Name="Time" Type="nchar" MaxLength="100" />
+          <Property Name="TimeEdit" Type="nchar" MaxLength="100" />
+        </EntityType>
+        <EntityType Name="Note_Backup">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" />
+          <Property Name="Header" Type="nvarchar" MaxLength="100" />
+          <Property Name="Context" Type="nvarchar(max)" />
+          <Property Name="Time" Type="nchar" MaxLength="100" />
+          <Property Name="TimeEdit" Type="nchar" MaxLength="100" />
+        </EntityType>
+        <EntityType Name="Note_Tag">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="MiniTag" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" />
+          <Property Name="MiniTag" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="Description" Type="nchar" MaxLength="10" />
+        </EntityType>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="principal_id" Type="int" Nullable="false" />
+          <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="version" Type="int" />
+          <Property Name="definition" Type="varbinary(max)" />
+        </EntityType>
+        <EntityType Name="Tag">
+          <Key>
+            <PropertyRef Name="Tag" />
+          </Key>
+          <Property Name="Tag" Type="nvarchar" MaxLength="100" Nullable="false" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="Username" />
+          </Key>
+          <Property Name="Username" Type="nchar" MaxLength="25" Nullable="false" />
+          <Property Name="Password" Type="nchar" MaxLength="50" Nullable="false" />
+          <Property Name="Email" Type="nchar" MaxLength="100" />
+          <Property Name="Phone" Type="nchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="User_Note">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="Username" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" />
+          <Property Name="Username" Type="nchar" MaxLength="25" Nullable="false" />
+          <Property Name="Description" Type="nchar" MaxLength="10" />
+        </EntityType>
+        <EntityType Name="User_Note_Backup">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="Username" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" />
+          <Property Name="Username" Type="nchar" MaxLength="25" Nullable="false" />
+          <Property Name="Description" Type="nchar" MaxLength="10" />
+        </EntityType>
+        <Association Name="FK_Note_Tag_Note">
+          <End Role="Note" Type="Self.Note" Multiplicity="1" />
+          <End Role="Note_Tag" Type="Self.Note_Tag" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Note">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Note_Tag">
+              <PropertyRef Name="ID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_User_Note_Backup_Note_Backup">
+          <End Role="Note_Backup" Type="Self.Note_Backup" Multiplicity="1" />
+          <End Role="User_Note_Backup" Type="Self.User_Note_Backup" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Note_Backup">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="User_Note_Backup">
+              <PropertyRef Name="ID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_User_Note_Backup_User">
+          <End Role="User" Type="Self.User" Multiplicity="1" />
+          <End Role="User_Note_Backup" Type="Self.User_Note_Backup" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="Username" />
+            </Principal>
+            <Dependent Role="User_Note_Backup">
+              <PropertyRef Name="Username" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_User_Note_Note">
+          <End Role="Note" Type="Self.Note" Multiplicity="1" />
+          <End Role="User_Note" Type="Self.User_Note" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Note">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="User_Note">
+              <PropertyRef Name="ID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_User_Note_User">
+          <End Role="User" Type="Self.User" Multiplicity="1" />
+          <End Role="User_Note" Type="Self.User_Note" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="Username" />
+            </Principal>
+            <Dependent Role="User_Note">
+              <PropertyRef Name="Username" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="SimpleNoteModelsStoreContainer">
+          <EntitySet Name="Note" EntityType="Self.Note" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Note_Backup" EntityType="Self.Note_Backup" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Note_Tag" EntityType="Self.Note_Tag" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Tag" EntityType="Self.Tag" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="User_Note" EntityType="Self.User_Note" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="User_Note_Backup" EntityType="Self.User_Note_Backup" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Note_Tag_Note" Association="Self.FK_Note_Tag_Note">
+            <End Role="Note" EntitySet="Note" />
+            <End Role="Note_Tag" EntitySet="Note_Tag" />
+          </AssociationSet>
+          <AssociationSet Name="FK_User_Note_Backup_Note_Backup" Association="Self.FK_User_Note_Backup_Note_Backup">
+            <End Role="Note_Backup" EntitySet="Note_Backup" />
+            <End Role="User_Note_Backup" EntitySet="User_Note_Backup" />
+          </AssociationSet>
+          <AssociationSet Name="FK_User_Note_Backup_User" Association="Self.FK_User_Note_Backup_User">
+            <End Role="User" EntitySet="User" />
+            <End Role="User_Note_Backup" EntitySet="User_Note_Backup" />
+          </AssociationSet>
+          <AssociationSet Name="FK_User_Note_Note" Association="Self.FK_User_Note_Note">
+            <End Role="Note" EntitySet="Note" />
+            <End Role="User_Note" EntitySet="User_Note" />
+          </AssociationSet>
+          <AssociationSet Name="FK_User_Note_User" Association="Self.FK_User_Note_User">
+            <End Role="User" EntitySet="User" />
+            <End Role="User_Note" EntitySet="User_Note" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="SimpleNote.Models" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="SimpleNoteEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Notes" EntityType="SimpleNote.Models.Note" />
+          <EntitySet Name="Note_Backup" EntityType="SimpleNote.Models.Note_Backup" />
+          <EntitySet Name="Note_Tag" EntityType="SimpleNote.Models.Note_Tag" />
+          <EntitySet Name="sysdiagrams" EntityType="SimpleNote.Models.sysdiagram" />
+          <EntitySet Name="Tags" EntityType="SimpleNote.Models.Tag" />
+          <EntitySet Name="Users" EntityType="SimpleNote.Models.User" />
+          <EntitySet Name="User_Note" EntityType="SimpleNote.Models.User_Note" />
+          <EntitySet Name="User_Note_Backup" EntityType="SimpleNote.Models.User_Note_Backup" />
+          <AssociationSet Name="FK_Note_Tag_Note" Association="SimpleNote.Models.FK_Note_Tag_Note">
+            <End Role="Note" EntitySet="Notes" />
+            <End Role="Note_Tag" EntitySet="Note_Tag" />
+          </AssociationSet>
+          <AssociationSet Name="FK_User_Note_Note" Association="SimpleNote.Models.FK_User_Note_Note">
+            <End Role="Note" EntitySet="Notes" />
+            <End Role="User_Note" EntitySet="User_Note" />
+          </AssociationSet>
+          <AssociationSet Name="FK_User_Note_Backup_Note_Backup" Association="SimpleNote.Models.FK_User_Note_Backup_Note_Backup">
+            <End Role="Note_Backup" EntitySet="Note_Backup" />
+            <End Role="User_Note_Backup" EntitySet="User_Note_Backup" />
+          </AssociationSet>
+          <AssociationSet Name="FK_User_Note_Backup_User" Association="SimpleNote.Models.FK_User_Note_Backup_User">
+            <End Role="User" EntitySet="Users" />
+            <End Role="User_Note_Backup" EntitySet="User_Note_Backup" />
+          </AssociationSet>
+          <AssociationSet Name="FK_User_Note_User" Association="SimpleNote.Models.FK_User_Note_User">
+            <End Role="User" EntitySet="Users" />
+            <End Role="User_Note" EntitySet="User_Note" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Note">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" />
+          <Property Name="Header" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="Context" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Time" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+          <Property Name="TimeEdit" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+          <NavigationProperty Name="Note_Tag" Relationship="SimpleNote.Models.FK_Note_Tag_Note" FromRole="Note" ToRole="Note_Tag" />
+          <NavigationProperty Name="User_Note" Relationship="SimpleNote.Models.FK_User_Note_Note" FromRole="Note" ToRole="User_Note" />
+        </EntityType>
+        <EntityType Name="Note_Backup">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" />
+          <Property Name="Header" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="Context" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Time" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+          <Property Name="TimeEdit" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+          <NavigationProperty Name="User_Note_Backup" Relationship="SimpleNote.Models.FK_User_Note_Backup_Note_Backup" FromRole="Note_Backup" ToRole="User_Note_Backup" />
+        </EntityType>
+        <EntityType Name="Note_Tag">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="MiniTag" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" />
+          <Property Name="MiniTag" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="Description" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+          <NavigationProperty Name="Note" Relationship="SimpleNote.Models.FK_Note_Tag_Note" FromRole="Note_Tag" ToRole="Note" />
+        </EntityType>
+        <EntityType Name="sysdiagram">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+          <Property Name="principal_id" Type="Int32" Nullable="false" />
+          <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="version" Type="Int32" />
+          <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="Tag">
+          <Key>
+            <PropertyRef Name="Tag1" />
+          </Key>
+          <Property Name="Tag1" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="Username" />
+          </Key>
+          <Property Name="Username" Type="String" Nullable="false" MaxLength="25" FixedLength="true" Unicode="true" />
+          <Property Name="Password" Type="String" Nullable="false" MaxLength="50" FixedLength="true" Unicode="true" />
+          <Property Name="Email" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+          <Property Name="Phone" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+          <NavigationProperty Name="User_Note_Backup" Relationship="SimpleNote.Models.FK_User_Note_Backup_User" FromRole="User" ToRole="User_Note_Backup" />
+          <NavigationProperty Name="User_Note" Relationship="SimpleNote.Models.FK_User_Note_User" FromRole="User" ToRole="User_Note" />
+        </EntityType>
+        <EntityType Name="User_Note">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="Username" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" />
+          <Property Name="Username" Type="String" Nullable="false" MaxLength="25" FixedLength="true" Unicode="true" />
+          <Property Name="Description" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+          <NavigationProperty Name="Note" Relationship="SimpleNote.Models.FK_User_Note_Note" FromRole="User_Note" ToRole="Note" />
+          <NavigationProperty Name="User" Relationship="SimpleNote.Models.FK_User_Note_User" FromRole="User_Note" ToRole="User" />
+        </EntityType>
+        <EntityType Name="User_Note_Backup">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="Username" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" />
+          <Property Name="Username" Type="String" Nullable="false" MaxLength="25" FixedLength="true" Unicode="true" />
+          <Property Name="Description" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+          <NavigationProperty Name="Note_Backup" Relationship="SimpleNote.Models.FK_User_Note_Backup_Note_Backup" FromRole="User_Note_Backup" ToRole="Note_Backup" />
+          <NavigationProperty Name="User" Relationship="SimpleNote.Models.FK_User_Note_Backup_User" FromRole="User_Note_Backup" ToRole="User" />
+        </EntityType>
+        <Association Name="FK_Note_Tag_Note">
+          <End Type="SimpleNote.Models.Note" Role="Note" Multiplicity="1" />
+          <End Type="SimpleNote.Models.Note_Tag" Role="Note_Tag" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Note">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Note_Tag">
+              <PropertyRef Name="ID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_User_Note_Note">
+          <End Type="SimpleNote.Models.Note" Role="Note" Multiplicity="1" />
+          <End Type="SimpleNote.Models.User_Note" Role="User_Note" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Note">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="User_Note">
+              <PropertyRef Name="ID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_User_Note_Backup_Note_Backup">
+          <End Type="SimpleNote.Models.Note_Backup" Role="Note_Backup" Multiplicity="1" />
+          <End Type="SimpleNote.Models.User_Note_Backup" Role="User_Note_Backup" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Note_Backup">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="User_Note_Backup">
+              <PropertyRef Name="ID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_User_Note_Backup_User">
+          <End Type="SimpleNote.Models.User" Role="User" Multiplicity="1" />
+          <End Type="SimpleNote.Models.User_Note_Backup" Role="User_Note_Backup" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="Username" />
+            </Principal>
+            <Dependent Role="User_Note_Backup">
+              <PropertyRef Name="Username" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_User_Note_User">
+          <End Type="SimpleNote.Models.User" Role="User" Multiplicity="1" />
+          <End Type="SimpleNote.Models.User_Note" Role="User_Note" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="Username" />
+            </Principal>
+            <Dependent Role="User_Note">
+              <PropertyRef Name="Username" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="SimpleNoteModelsStoreContainer" CdmEntityContainer="SimpleNoteEntities">
+          <EntitySetMapping Name="Notes">
+            <EntityTypeMapping TypeName="SimpleNote.Models.Note">
+              <MappingFragment StoreEntitySet="Note">
+                <ScalarProperty Name="TimeEdit" ColumnName="TimeEdit" />
+                <ScalarProperty Name="Time" ColumnName="Time" />
+                <ScalarProperty Name="Context" ColumnName="Context" />
+                <ScalarProperty Name="Header" ColumnName="Header" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Note_Backup">
+            <EntityTypeMapping TypeName="SimpleNote.Models.Note_Backup">
+              <MappingFragment StoreEntitySet="Note_Backup">
+                <ScalarProperty Name="TimeEdit" ColumnName="TimeEdit" />
+                <ScalarProperty Name="Time" ColumnName="Time" />
+                <ScalarProperty Name="Context" ColumnName="Context" />
+                <ScalarProperty Name="Header" ColumnName="Header" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Note_Tag">
+            <EntityTypeMapping TypeName="SimpleNote.Models.Note_Tag">
+              <MappingFragment StoreEntitySet="Note_Tag">
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="MiniTag" ColumnName="MiniTag" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="sysdiagrams">
+            <EntityTypeMapping TypeName="SimpleNote.Models.sysdiagram">
+              <MappingFragment StoreEntitySet="sysdiagrams">
+                <ScalarProperty Name="definition" ColumnName="definition" />
+                <ScalarProperty Name="version" ColumnName="version" />
+                <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+                <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+                <ScalarProperty Name="name" ColumnName="name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Tags">
+            <EntityTypeMapping TypeName="SimpleNote.Models.Tag">
+              <MappingFragment StoreEntitySet="Tag">
+                <ScalarProperty Name="Tag1" ColumnName="Tag" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Users">
+            <EntityTypeMapping TypeName="SimpleNote.Models.User">
+              <MappingFragment StoreEntitySet="User">
+                <ScalarProperty Name="Phone" ColumnName="Phone" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+                <ScalarProperty Name="Username" ColumnName="Username" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="User_Note">
+            <EntityTypeMapping TypeName="SimpleNote.Models.User_Note">
+              <MappingFragment StoreEntitySet="User_Note">
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="Username" ColumnName="Username" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="User_Note_Backup">
+            <EntityTypeMapping TypeName="SimpleNote.Models.User_Note_Backup">
+              <MappingFragment StoreEntitySet="User_Note_Backup">
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="Username" ColumnName="Username" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

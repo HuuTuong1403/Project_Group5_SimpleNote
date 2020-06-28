@@ -1,0 +1,292 @@
+E:\Đại học 2020\Lập trình Window\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe.config
+E:\Đại học 2020\Lập trình Window\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+E:\Đại học 2020\Lập trình Window\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+E:\Đại học 2020\Lập trình Window\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csprojAssemblyReference.cache
+E:\Đại học 2020\Lập trình Window\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Properties.Resources.resources
+E:\Đại học 2020\Lập trình Window\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.GenerateResource.cache
+E:\Đại học 2020\Lập trình Window\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CoreCompileInputs.cache
+E:\Đại học 2020\Lập trình Window\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+E:\Đại học 2020\Lập trình Window\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+E:\Đại học 2020\Lập trình Window\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CopyComplete
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe.config
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Properties.Resources.resources
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CopyComplete
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+E:\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csprojAssemblyReference.cache
+E:\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.frmSignIn.resources
+E:\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.frmNote.resources
+E:\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Properties.Resources.resources
+E:\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.GenerateResource.cache
+E:\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CoreCompileInputs.cache
+E:\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+E:\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+E:\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe.config
+E:\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+E:\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+E:\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\ChreneLib.dll
+E:\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CopyComplete
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe.config
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.frmSignIn.resources
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.frmNote.resources
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Properties.Resources.resources
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CopyComplete
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Admin\Downloads\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.frmSignIn.resources
+C:\Users\Admin\Downloads\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.frmNote.resources
+C:\Users\Admin\Downloads\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Properties.Resources.resources
+C:\Users\Admin\Downloads\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Admin\Downloads\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Admin\Downloads\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe.config
+C:\Users\Admin\Downloads\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Admin\Downloads\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Admin\Downloads\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CopyComplete
+C:\Users\Windows 10\Downloads\test (1)\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe.config
+C:\Users\Windows 10\Downloads\test (1)\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\test (1)\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\test (1)\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csprojAssemblyReference.cache
+C:\Users\Windows 10\Downloads\test (1)\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.frmSignIn.resources
+C:\Users\Windows 10\Downloads\test (1)\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.frmNote.resources
+C:\Users\Windows 10\Downloads\test (1)\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Properties.Resources.resources
+C:\Users\Windows 10\Downloads\test (1)\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\test (1)\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\test (1)\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CopyComplete
+C:\Users\Windows 10\Downloads\test (1)\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\test (1)\test\DoAnCuoiKiNhom5_SimpleNote-20200507T163500Z-001\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+E:\Đại học 2020\Lập trình Window\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignIn.resources
+E:\Đại học 2020\Lập trình Window\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmNote.resources
+E:\Đại học 2020\Lập trình Window\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.dll
+E:\Đại học 2020\Lập trình Window\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.dll
+E:\Đại học 2020\Lập trình Window\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.xml
+E:\Đại học 2020\Lập trình Window\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.xml
+E:\Đại học 2020\Lập trình Window\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignUp.resources
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignIn.resources
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmNote.resources
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignUp.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe.config
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.dll
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.xml
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csprojAssemblyReference.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignIn.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmNote.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Properties.Resources.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignUp.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CopyComplete
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\Guna.UI.dll
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe.config
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignIn.resources
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmNote.resources
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Properties.Resources.resources
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignUp.resources
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CopyComplete
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote-20200516T140252Z-001\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe.config
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.dll
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.xml
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csprojAssemblyReference.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignIn.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmNote.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Properties.Resources.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignUp.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CopyComplete
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe.config
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.dll
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.xml
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csprojAssemblyReference.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignIn.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmNote.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Properties.Resources.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignUp.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CopyComplete
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe.config
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.dll
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.xml
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csprojAssemblyReference.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignIn.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmNote.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Properties.Resources.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignUp.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CopyComplete
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe.config
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.dll
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\Guna.UI.dll
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.xml
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csprojAssemblyReference.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignIn.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmNote.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Properties.Resources.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignUp.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CopyComplete
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe.config
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignIn.resources
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmNote.resources
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Properties.Resources.resources
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignUp.resources
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CopyComplete
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Admin\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe.config
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.dll
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.xml
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csprojAssemblyReference.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignIn.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmNote.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Properties.Resources.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignUp.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CopyComplete
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe.config
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.dll
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\Guna.UI.dll
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.xml
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csprojAssemblyReference.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignIn.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmNote.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Properties.Resources.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignUp.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CopyComplete
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\a\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe.config
+C:\Users\Windows 10\Downloads\a\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\a\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\a\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.dll
+C:\Users\Windows 10\Downloads\a\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Windows 10\Downloads\a\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\Guna.UI.dll
+C:\Users\Windows 10\Downloads\a\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.xml
+C:\Users\Windows 10\Downloads\a\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Windows 10\Downloads\a\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csprojAssemblyReference.cache
+C:\Users\Windows 10\Downloads\a\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignIn.resources
+C:\Users\Windows 10\Downloads\a\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmNote.resources
+C:\Users\Windows 10\Downloads\a\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Properties.Resources.resources
+C:\Users\Windows 10\Downloads\a\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignUp.resources
+C:\Users\Windows 10\Downloads\a\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\a\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\a\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CopyComplete
+C:\Users\Windows 10\Downloads\a\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\a\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\b\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe.config
+C:\Users\Windows 10\Downloads\b\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\b\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\b\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.dll
+C:\Users\Windows 10\Downloads\b\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Windows 10\Downloads\b\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\Guna.UI.dll
+C:\Users\Windows 10\Downloads\b\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.xml
+C:\Users\Windows 10\Downloads\b\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Windows 10\Downloads\b\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csprojAssemblyReference.cache
+C:\Users\Windows 10\Downloads\b\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignIn.resources
+C:\Users\Windows 10\Downloads\b\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmNote.resources
+C:\Users\Windows 10\Downloads\b\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Properties.Resources.resources
+C:\Users\Windows 10\Downloads\b\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignUp.resources
+C:\Users\Windows 10\Downloads\b\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\b\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\b\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CopyComplete
+C:\Users\Windows 10\Downloads\b\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\b\DoAnCuoiKiNhom5_SimpleNote\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe.config
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.dll
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.xml
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csprojAssemblyReference.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignIn.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmNote.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Properties.Resources.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.Views.frmSignUp.resources
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.csproj.CopyComplete
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.exe
+C:\Users\Windows 10\Downloads\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote (1)\DoAnCuoiKiNhom5_SimpleNote\obj\Debug\DoAnCuoiKiNhom5_SimpleNote.pdb
